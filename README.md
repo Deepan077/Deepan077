@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Deepan R</h1>
-<h3 align="center">"Exploring the Nexus: Defense Analysis Journey | CSE 3nd Year at Vellalar College of Engineering and Technology, India"</h3>
+<h3 align="center">"Exploring the Nexus: Defense Analysis Journey | CSE 3rd Year at Vellalar College of Engineering and Technology, India"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepan077&label=Profile%20views&color=0e75b6&style=flat" alt="deepan077" /> </p>
 
